@@ -2,8 +2,8 @@
 /**
  * UEditor Widget扩展
  *
- * @author xbzbing<xbzbing@gmail.com>
- * @link www.crazydb.com
+ * @author charles lee<chareler@163.com>
+ * @link www.jinostart.com
  *
  * UEditor版本v1.4.3.1
  * Yii版本2.0+
@@ -18,7 +18,7 @@ use yii\web\AssetBundle;
  * 负责UEditor的资源文件引入。
  * 由于bower上的源码是纯源码，需要用grunt打包后才能使用，因此扩展自带了1.4.3版本的UEditor核心文件。
  *
- * @package crazydb\ueditor
+ * @package jinowom\ueditor
  */
 class UEditorAsset extends AssetBundle {
 

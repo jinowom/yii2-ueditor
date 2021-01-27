@@ -17,7 +17,7 @@ use yii\helpers\ArrayHelper;
  * Class Uploader
  * UEditor 通用上传类
  * @todo 不再使用UEditor的这个upload类，将使用Yii封装的方法重写
- * @package crazydb\ueditor
+ * @package jinowom\ueditor
  */
 class Uploader
 {

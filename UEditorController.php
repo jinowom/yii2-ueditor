@@ -1,8 +1,8 @@
 <?php
 /**
  * UEditor Widget扩展
- * @author xbzbing<xbzbing@gmail.com>
- * @link www.crazydb.com
+ * @author charles lee<chareler@163.com>
+ * @link www.jinostart.com
  *
  * UEditor版本v1.4.3.1
  * Yii 版本 2.0+
@@ -16,7 +16,7 @@ use yii\web\Controller;
 /**
  * Class UEditorController
  * 负责UEditor后台响应
- * @package crazydb\ueditor
+ * @package jinowom\ueditor
  */
 class UEditorController extends Controller
 {
